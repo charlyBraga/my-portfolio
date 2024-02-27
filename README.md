@@ -1,4 +1,6 @@
-# my portfolio
+# My portfolio
+
+## Hi, this portifólio presents real and personal projects about data science and Machine Learning
 
 - Complete project about data science, Machine learning, python, regression, and catboost about houve advertisement : [Projet1](https://github.com/charlyBraga/analysis-price-host)
 
