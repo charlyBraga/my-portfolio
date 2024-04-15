@@ -10,11 +10,13 @@
 
 - This is my final project for the Computer Engineering course, which involves a neural network designed to recognize car license plates: [Project 4](https://github.com/charlyBraga/TFG-ComputerEngineering-)
 
-- Dashboard with PowerBI: [Project 5](https://github.com/charlyBraga/PowerBI-Dashboard-AluraPet)
+- PowerBI Dashboard: [Project 5](https://github.com/charlyBraga/PowerBI-Dashboard-AluraPet)
 
-- Neural Network using orange: [Project 6](https://github.com/charlyBraga/Redes-Neurais-Artificiais-no-Orange)
+- Tableau Dashboards: [Project 6](https://github.com/charlyBraga/Tableau-dashboards-projects/tree/main) 
 
-- Automation about WhatsApp using Python and Selenium: [Project 7](https://github.com/charlyBraga/whatsappBot)
+- Neural Network using orange: [Project 7](https://github.com/charlyBraga/Redes-Neurais-Artificiais-no-Orange)
 
-- Extract data: [Project 8](https://github.com/charlyBraga/Extract-data-in-txt-with-basic-python/tree/main)
+- Automation about WhatsApp using Python and Selenium: [Project 8](https://github.com/charlyBraga/whatsappBot)
+
+- Extract data: [Project 9](https://github.com/charlyBraga/Extract-data-in-txt-with-basic-python/tree/main)
 
