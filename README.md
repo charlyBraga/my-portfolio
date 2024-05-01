@@ -2,7 +2,7 @@
 
  Hi, this portifólio presents real and personal projects mainly about Data science and Machine learning.
  
-<be>
+<br />
 
 ## Machine learning and data analysis
 - For my Master's thesis project, I created a deep learning CNN to recognize diseases in coffee leaves, achieving an accuracy of 99.67%, which is better than other results compared in the literature: [Project 1](https://github.com/charlyBraga/masters-dissertation)
@@ -15,11 +15,14 @@
 
 - Neural Network using orange: [Project 7](https://github.com/charlyBraga/Redes-Neurais-Artificiais-no-Orange)
 
+<br />
+
 ## Dashboards
 - PowerBI Dashboard: [Project 5](https://github.com/charlyBraga/PowerBI-Dashboard-AluraPet)
 
 - Tableau Dashboards: [Project 6](https://github.com/charlyBraga/Tableau-dashboards-projects/tree/main) 
 
+<br />
 
 ## Extract data and automation with Python
 - Automation about WhatsApp using Python and Selenium: [Project 8](https://github.com/charlyBraga/whatsappBot)
