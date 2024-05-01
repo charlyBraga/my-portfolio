@@ -1,6 +1,6 @@
 # My portfolio
 
-## Hi, this portifólio presents real and personal projects about data science and Machine Learning
+ Hi, this portifólio presents real and personal projects mainly about Data science and Machine learning.
 
 ## Machine learning and data analysis
 <summary><b>Português</b></summary>
