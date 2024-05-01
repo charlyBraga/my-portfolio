@@ -1,7 +1,7 @@
 # My portfolio
 
  Hi, this portifólio presents real and personal projects mainly about Data science and Machine learning.
-
+<be>
 ## Machine learning and data analysis
 <summary><b>Português</b></summary>
 - For my Master's thesis project, I created a deep learning CNN to recognize diseases in coffee leaves, achieving an accuracy of 99.67%, which is better than other results compared in the literature: [Project 1](https://github.com/charlyBraga/masters-dissertation)
